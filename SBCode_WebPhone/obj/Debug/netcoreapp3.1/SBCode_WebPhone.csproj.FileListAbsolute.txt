@@ -1,0 +1,1613 @@
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangKy.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangNhap.cshtml.g.cs
+C:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangKy.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangNhap.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangKy.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\KhachHang\DangNhap.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\BAI MOI\BAi MOI MOI\Bai MOI MOI MOI\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+C:\Users\Vinh\Desktop\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+D:\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+C:\Users\Vinh\Desktop\bai moi moi\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+D:\WEB DA\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+E:\DA WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.exe
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.deps.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.runtimeconfig.dev.json
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\BraintreeHttp-Dotnet.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\PageList.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\Source.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.AssemblyReference.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.GeneratedMSBuildEditorConfig.editorconfig
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfoInputs.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.AssemblyInfo.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CoreCompileInputs.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.MvcApplicationPartsAssemblyInfo.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorAssemblyInfo.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.Manifest.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\staticwebassets\SBCode_WebPhone.StaticWebAssets.xml
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\scopedcss\bundle\SBCode_WebPhone.styles.css
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.input.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.TagHelpers.output.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorCoreGenerate.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Create.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Edit.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HangHoa\Index.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Create.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Edit.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loai\Index.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhanQuyen\PhanQuyen.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\LoaiDropDown.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangKy.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DangNhap.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DoiMatKhau.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\DonHangDaMua.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutFail.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\CheckoutSuccess.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\Index.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\GioHang\ThanhToan.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Detail.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\HangHoa\Index.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout _Admin.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_GioHang.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Shop.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.RazorTargetAssemblyInfo.cs
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.Views.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.dll
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.pdb
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.genruntimeconfig.cache
+E:\DO AN\DO AN WEB\SBCode_WebPhone\SBCode_WebPhone\obj\Debug\netcoreapp3.1\SBCode_WebPhone.csproj.CopyComplete
